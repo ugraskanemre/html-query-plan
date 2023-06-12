@@ -16,7 +16,6 @@
     "karma-webpack": "^4.0.0-rc.2",
     "mocha": "^5.1.1",
     "raw-loader": "^0.5.1",
-    "svgjs": "^2.6.2",
     "ts-loader": "^5.0",
     "ts-node": "^7.0",
     "typescript": "^3.0",
@@ -40,5 +39,8 @@
   "bugs": {
     "url": "https://github.com/JustinPealing/html-query-plan/issues"
   },
-  "homepage": "https://github.com/JustinPealing/html-query-plan#readme"
+  "homepage": "https://github.com/JustinPealing/html-query-plan#readme",
+  "dependencies": {
+    "svgjs": "^2.5.1"
+  }
 }
